@@ -1,3 +1,0 @@
-/home/urpagin/CODING/VSCodium/Mystring/class-methods/build/CMakeFiles/MyProject.dir
-/home/urpagin/CODING/VSCodium/Mystring/class-methods/build/CMakeFiles/edit_cache.dir
-/home/urpagin/CODING/VSCodium/Mystring/class-methods/build/CMakeFiles/rebuild_cache.dir
